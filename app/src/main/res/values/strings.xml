@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PicPickerTest</string>
+    <string name="string_btn_show">选取图片</string>
+</resources>
